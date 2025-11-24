@@ -1,6 +1,6 @@
 window.BLOGGER_CENTRAL_MENU = [
   {
-    "title": "Fábio Cruise - Áreas da Vida - Principal",
+    "title": "Início",
     "url": "https://areas-da-vida.blogspot.com/"
   },
   {
@@ -13,17 +13,30 @@ window.BLOGGER_CENTRAL_MENU = [
         "url": "#",
         "children": [
           { "title": "Exercícios", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com/" },
-          { "title": "Nutrição", "url": "https://exemplo-nutricao.blogspot.com/" }
+          { "title": "Nutrição", "url": "https://exemplo-nutricao.blogspot.com/" },
+          {
+            "title": "Fitness Avançado",
+            "url": "#",
+            "children": [
+              { "title": "Treino A", "url": "#" },
+              { "title": "Treino B", "url": "#" }
+            ]
+          }
         ]
-      }
+      },
+      { "title": "Carreira e Trabalho", "url": "https://fabiocruise-trabalho.blogspot.com/" }
     ]
-  },
-  {
-    "title": "Carreira",
-    "url": "https://fabiocruise-trabalho.blogspot.com/"
   },
   {
     "title": "Finanças",
     "url": "https://investimentos-financeiros.blogspot.com/"
+  },
+  {
+    "title": "Sobre",
+    "url": "#",
+    "children": [
+      { "title": "Quem sou", "url": "#" },
+      { "title": "Contato", "url": "#" }
+    ]
   }
 ];
