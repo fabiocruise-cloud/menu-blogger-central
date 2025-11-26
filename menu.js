@@ -8,7 +8,7 @@ window.BLOGGER_CENTRAL_MENU = [
         { "title": "Fitness Avançado", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com", 
          "children": [
           { "title": "Treino A", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com/" },
-          { "title": "Treino B", "url": "#" } 
+          { "title": "Treino B", "url": "https://investimentos-financeiros.blogspot.com" } 
          ]}
       ]},
     { "title": "Carreira e Trabalho", "url": "https://fabiocruise-trabalho.blogspot.com/" } ] },
@@ -17,4 +17,5 @@ window.BLOGGER_CENTRAL_MENU = [
     { "title": "Quem sou", "url": "https://investimentos-financeiros.blogspot.com" },
     { "title": "Contato", "url": "https://investimentos-financeiros.blogspot.com" } 
   ] 
-  } ];
+  } 
+];
