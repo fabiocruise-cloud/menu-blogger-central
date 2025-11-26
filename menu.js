@@ -15,5 +15,6 @@ window.BLOGGER_CENTRAL_MENU = [
       },
     { "title": "Carreira e Trabalho", "url": "https://fabiocruise-trabalho.blogspot.com/" } ] },
   { "title": "Finanças", "url": "https://investimentos-financeiros.blogspot.com/" },
-  { "title": "Sobre", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com", "children": [{ "title": "Quem sou", "url": "https://investimentos-financeiros.blogspot.com" },
+  { "title": "Sobre", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com", 
+   "children": [{ "title": "Quem sou", "url": "https://investimentos-financeiros.blogspot.com" },
     { "title": "Contato", "url": "https://investimentos-financeiros.blogspot.com" }]}];
