@@ -9,9 +9,10 @@ window.BLOGGER_CENTRAL_MENU = [
          "children": [
           { "title": "Treino A", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com/" },
           { "title": "Treino B", "url": "#" } 
-         ]}]},
+         ]}
+      ]},
     { "title": "Carreira e Trabalho", "url": "https://fabiocruise-trabalho.blogspot.com/" } ] },
   { "title": "Finanças", "url": "https://investimentos-financeiros.blogspot.com/" },
   { "title": "Sobre", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com", "children": [
     { "title": "Quem sou", "url": "#" },
-    { "title": "Contato", "url": "#" } ] } ];
+    { "title": "Contato", "url": "https://investimentos-financeiros.blogspot.com" } ] } ];
