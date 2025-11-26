@@ -5,10 +5,10 @@ window.BLOGGER_CENTRAL_MENU = [
     { "title": "3 👨‍💼💼 CARREIRA+PROFISSÃO", "url": "https://fabiocruise-trabalho.blogspot.com/", "children": [
       { "title": "4 💲💳 FINANÇAS & INVESTIMENTOS", "url": "https://investimentos-financeiros.blogspot.com/", "children": [
         { "title": "5 💡 CONHECIMENTOS GERAIS ANOTAÇÕES-🚀 Cursos", "url": "#" }
-      ] },
-      { "title": "6 👨‍👩‍👧‍👦💕 FAMÍLIA & PESSOAL & AGENDAS", "url": "#" }
+      ] }
     ] }
   ] },
+  { "title": "6 👨‍👩‍👧‍👦💕 FAMÍLIA & PESSOAL & AGENDAS", "url": "#" },
   { "title": "7 ✏️📗🕓 MEU GTD - PLANEJAMENTOS & IDÉIAS", "url": "#" },
   { "title": "8 MEUS TESTES", "url": "https://uol.blogspot.com/" }
 ];
