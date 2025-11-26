@@ -15,4 +15,5 @@ window.BLOGGER_CENTRAL_MENU = [
   { "title": "Finanças", "url": "https://investimentos-financeiros.blogspot.com/" },
   { "title": "Sobre", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com", "children": [
     { "title": "Quem sou", "url": "#" },
-    { "title": "Contato", "url": "https://investimentos-financeiros.blogspot.com" } ] } ];
+    { "title": "Contato", "url": "https://investimentos-financeiros.blogspot.com" } 
+  ] } ];
