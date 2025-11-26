@@ -10,7 +10,7 @@ window.BLOGGER_CENTRAL_MENU = [
       { "title": "FÉ ORAÇÃO VIDA ETERNA", "url": "https://fe-oracao-e-vida-eterna.blogspot.com/" },
       {
         "title": "Saúde e Bem-estar",
-        "url": "#",
+        "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com",
         "children": [
           { "title": "Exercícios", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com/" },
           { "title": "Nutrição", "url": "https://exemplo-nutricao.blogspot.com/" },
