@@ -5,7 +5,8 @@ window.BLOGGER_CENTRAL_MENU = [
       { "title": "Saúde e Bem-estar", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com", "children": [ 
         { "title": "Exercícios", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com/" }, 
         { "title": "Nutrição", "url": "https://exemplo-nutricao.blogspot.com/" },
-        { "title": "Fitness Avançado", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com", "children": [
+        { "title": "Fitness Avançado", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com", 
+         "children": [
           { "title": "Treino A", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com" },
           { "title": "Treino B", "url": "#" } ] } ] },
     { "title": "Carreira e Trabalho", "url": "https://fabiocruise-trabalho.blogspot.com/" } ] },
