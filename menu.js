@@ -1,7 +1,7 @@
 window.BLOGGER_CENTRAL_MENU = [
-  { "title": "Fábio Cruise - Áreas da Vida - Principal🧬⏳", "url": "https://areas-da-vida.blogspot.com/\" }", "children": [
-    { "title": "1 🙏🛐😇 FÉ ORAÇÃO VIDA ETERNA", "url": "https://fe-oracao-e-vida-eterna.blogspot.com/\" }", "children": [
-      { "title": "2 ⛹️🚴 BEM ESTAR & SAÚDE 🏋️", "url": "https://fabiocruise-bem-estar-e-saude.blogspot.com/\" }", "children": [
+  { "title": "Fábio Cruise - Áreas da Vida - Principal🧬⏳", "url": "https://areas-da-vida\", \"url\": \"https://", "children": [
+    { "title": "1 🙏🛐😇 FÉ ORAÇÃO VIDA ETERNA", "url": "https://fe-oracao-e-vida-eterna\", \"url\": \"https://", "children": [
+      { "title": "2 ⛹️🚴 BEM ESTAR & SAÚDE 🏋️", "url": "https://fabiocruise-bem-estar-e-saude\", \"url\": \"https://", "children": [
         { "title": "3 👨‍💼💼 CARREIRA+PROFISSÃO", "url": "https://www.facebook.com", "children": [
           { "title": "4 💲💳 FINANÇAS & INVESTIMENTOS", "url": "https://www.claro.com" },
           { "title": "5 💡 CONHECIMENTOS GERAIS ANOTAÇÕES-🚀 Cursos", "url": "https://www.pazevida.org.br" }
